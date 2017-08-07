@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+  width: 300px;
+  margin: 0 auto;
+  padding: 8px 0;
+  box-shadow: 0 0 10px 2px rgba(0,0,0,0.3);
+}
+
+.App p {
+  font-size: 16px;
+  padding: 0;
+  text-align: center;
+}
+
+.App .tempConv {
+  cursor: pointer;
+}
+
+.App .far {
+  color: #F5D700;
+}
+
+.App .cel {
+  color: #FA144B;
+}
+
+.App .wi {
+  font-size: 3.5em;
+}
+
+.temperature, .icon {
+  border-bottom: 1px solid rgba(0,0,0,0.3);
+}
